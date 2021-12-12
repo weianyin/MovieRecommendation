@@ -1,0 +1,11 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: weiany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5311418
+bundleId:
+url: https://weiany.shinyapps.io/MovieRecommender/
+when: 1639281683.90397
+lastSyncTime: 1639281683.90398
